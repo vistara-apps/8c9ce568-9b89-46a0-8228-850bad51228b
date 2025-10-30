@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "SignalStream",
-    "homeUrl": "https://signalstream.app",
+    "homeUrl": "https://app-ad51228b-v7bd.vercel.app",
     "iconUrl": "https://signalstream.app/icon.png",
     "splashImageUrl": "https://signalstream.app/splash.png",
     "splashBackgroundColor": "#0D1117",
-    "webhookUrl": "https://api.signalstream.app/farcaster-webhook",
+    "webhookUrl": "https://app-ad51228b-v7bd.vercel.app/api/webhook",
     "subtitle": "Trading signals with immutable reputation",
     "description": "Discover and monetize trading signals with immutable reputation, powered by Farcaster and Base.",
     "screenshotUrls": [
@@ -20,7 +20,12 @@
       "https://signalstream.app/screenshot3.png"
     ],
     "primaryCategory": "finance",
-    "tags": ["trading", "signals", "defi", "base"],
+    "tags": [
+      "trading",
+      "signals",
+      "defi",
+      "base"
+    ],
     "heroImageUrl": "https://signalstream.app/hero.png",
     "tagline": "Trade smarter with verified signals",
     "ogTitle": "SignalStream - Trading Signals on Base",
